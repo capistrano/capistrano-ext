@@ -1,7 +1,7 @@
 == (unreleased)
 
+* Added explicit dependency on 'fileutils' [github.com/rouffj]
 * Fixed load and requests_per_second to work with cap2 [Gufo Pelato]
-
 * Allow tasks in staging files to be invoked without explicitly specifying the stage [Michael Hale]
 
 
